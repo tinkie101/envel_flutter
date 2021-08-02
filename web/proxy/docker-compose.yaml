@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  reverse:
+    container_name: envel-flutter-web-proxy
+    image: nginx
+    network_mode: host
+    volumes:
+      - ./nginx:/etc/nginx
