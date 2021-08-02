@@ -7,7 +7,7 @@ Remember to run  `flutter pub get`
 
 ### Running in web
 #### doesn't seem to work on windows :(
-* Add `--web-port=8091` to run command
+* Add `--web-port=9091` to run command
     * In intellij -> dropdown on `main.dart` in top right corner -> Edit  configurations -> additional run args
 * Create an nginx proxy with the docker-compose inside `web/proxy`
 
