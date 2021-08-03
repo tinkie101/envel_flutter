@@ -1,4 +1,4 @@
-# flutter_sandbox
+# envel-flutter
 
 A new Flutter project.
 
